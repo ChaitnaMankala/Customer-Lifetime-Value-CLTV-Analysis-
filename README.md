@@ -20,21 +20,21 @@ The dataset includes the following fields:
 
 **Key Analyses Performed**
 
-**- Distribution Analysis**
+**- Distribution Analysis:**
 Histograms for acquisition cost and revenue
 
-**- Channel-Wise Breakdown**
+**- Channel-Wise Breakdown:**
   - Average acquisition cost by channel
   - Average conversion rate by channel
   - Total revenue by channel (donut chart)
 
-**- ROI Calculation**
+**- ROI Calculation:**
 ROI = Revenue / Cost
 
-**- CLTV Calculation**
+**- CLTV Calculation:**
 CLTV = (Revenue – Cost) * Conversion Rate / Cost
 
-**- CLTV Distribution Comparison**
+**- CLTV Distribution Comparison:**
 Box plot comparing CLTV for social media vs referral channels
 
 **Insights**
